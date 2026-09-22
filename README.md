@@ -12,7 +12,6 @@
 - **Engine:** Unity
 - **Language:** C#
 - **Networking:** Mirror
-- **Voice Chat:** Vivox
 - **Role:** Unity Client Developer
 
 ## My Contributions
@@ -114,7 +113,7 @@ Sabotage Progress
 - 회의 채팅
 - 투표 결과 Popup
 - 플레이어 상태에 따른 UI 갱신
-- 기존 Vote / Voice 시스템과 연동
+- 기존 Vote 시스템과 연동
 
 ### 5. Ingame HUD
 
@@ -138,7 +137,6 @@ CommonHUD
 - 능력 및 Cooldown UI
 - Minimap
 - Dead Player UI
-- Voice Chat 입력/출력 제어
 
 ## Documentation
 
@@ -179,7 +177,6 @@ Scripts/
 - `PlayerState`
 - `PlayerAbilities`
 - `PlayerSecret`
-- `ProximityVoiceManager`
 
 네트워크 관련 기능은 Mirror를 기반으로 구현되었습니다.
 
